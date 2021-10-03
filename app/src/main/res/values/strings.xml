@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">latihan intent</string>
+    <string name="app_name">Pembuatan intent android</string>
     <string name="move_activity">Pindah Activity</string>
     <string name="move_with_data">Pindah Activity dengan Data</string>
     <string name="dial_number">Dial a Number</string>
